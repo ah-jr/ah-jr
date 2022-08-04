@@ -68,11 +68,7 @@ Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
 <!-- Stats -->   
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-jr&layout=compact&langs_count=7&theme=dracula"/>    
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=ah-jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
-<div align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ah-jr&count_private=true&theme=dracula"/>        
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-jr&layout=compact&langs_count=7&theme=dracula"/>    
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ah-jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
