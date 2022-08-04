@@ -5,10 +5,12 @@ Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
 <!-- Pics -->
 
 <div align="center">
-<img align="center" alt="ah-jr-pic1" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/pic1.png">
+  <img alt="ah-jr-pic1" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/pic1.png">
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ah-jr&count_private=true&theme=dracula">   
 </div>
-  
-##
+
+#
   
 <!-- Languages and Tools -->    
 
@@ -18,18 +20,42 @@ Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
   <img align="center" alt="ah-jr-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="ah-jr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ah-jr-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-   <img align="center" alt="ah-jr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
+  <img align="center" alt="ah-jr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
   <img align="center" alt="ah-jr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ah-jr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ah-jr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="ah-jr-OpenGl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
 </div>
 
+<div align="center">
+  <h3> Practical experience in: </h3>
+  <p> Software conceptualization, design, project management and development. <br>
+      Low-level development of audio applications in C++ and Delphi. <br>
+      Development of web applications intended to assist asset management. <br>  
+      Working with a huge team developing and maintaining the largest Delphi application from Brazil. <br> 
+      (https://www.nelogica.com.br/produtos/profit-pro)</p>
+</div>
+
+<div align="center">
+  <h3> Technologies learned: </h3>
+  VisualStudio and Delphi IDE / 
+  SDL library /
+  Juce Framework /
+  VST SDK /
+  Node.js /
+  OpenCV library /
+  GLFW library /
+  Direct2D /
+  GDI+ /
+  DirectSound /
+  ASIO
+</div>
+
 ##
   
 <!-- Network -->  
   
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/castler" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ai.ai.jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ahjunior98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
