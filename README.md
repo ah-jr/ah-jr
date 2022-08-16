@@ -1,16 +1,13 @@
-### Hi there 👋 I'm a young software developer, currently working on a wide range of audio applications. 
-Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
-##
-
 <!-- Pics -->
-
 <div align="center">
-  <img alt="ah-jr-pic1" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/pic1.png">
-  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ah-jr&count_private=true&theme=dracula&include_all_commits=true">   
+  <img align="center" alt="ah-jr-phoenix" height="140" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/phoenix.png">
 </div>
 
 #
+
+### Hi there 👋 I'm a young software developer, currently working on a wide range of audio applications. 
+Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
+##
   
 <!-- Languages and Tools -->    
 
@@ -66,9 +63,14 @@ Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
 ##  
   
 <!-- Stats -->   
+<div align="center">
+  <img align="center" height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=ah-jr&count_private=true&theme=dracula&include_all_commits=true">   
+</div>
+
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-jr&layout=compact&langs_count=7&theme=dracula"/>    
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ah-jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ah-jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
