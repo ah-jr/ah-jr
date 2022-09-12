@@ -1,6 +1,6 @@
 <!-- Pics -->
 <div align="center">
-  <img align="center" alt="ah-jr-phoenix" height="140" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/phoenix.png">
+  <img align="center" alt="ah-jr-phoenix" height="110" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/cover.png">
 </div>
 
 #
