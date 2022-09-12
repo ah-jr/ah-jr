@@ -1,6 +1,6 @@
 <!-- Pics -->
 <div align="center">
-  <a href="https:cas-media.com"><img align="center" alt="ah-jr-phoenix" height="110" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/cover.png"></a>
+  <a href="https://cas-media.com"><img align="center" alt="ah-jr-phoenix" height="110" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/cover.png"></a>
 </div>
 
 #
