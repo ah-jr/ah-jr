@@ -3,8 +3,6 @@
   <a href="https://cas-media.com"><img align="center" alt="ah-jr-phoenix" height="110" style="border-radius:50px;" src="https://raw.githubusercontent.com/ah-jr/ah-jr/main/images/cover.png"></a>
 </div>
 
-#
-
 ### Hi there 👋 I'm a young software developer, and CS student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial), currently working on a wide range of audio applications. 
 
   
